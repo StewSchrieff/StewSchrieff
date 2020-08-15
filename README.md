@@ -67,31 +67,14 @@ I've worked on:
 * [Chasing the Moon Web Interactive](https://ctm.americanexperience.org/)
   * This was a 2020 Silver National American Advertising Award [Winner](http://winners.americanadvertisingawards.com/awards2020/silver/)
 
-#### Likes
-* Math Jokes
-* Movie Soundtracks
-* Clear Communication
-* python
-* AWS
-* Jetbrains
-* Generative Art
-* Pub Trivia
-
-#### Dislikes
-
-* TurboTax
-* Facebook
-* Burnt Rice
-* Commuting
 
 
-
-#### Favorite Teams
-😈 Manchester United  
-🐓 South Carolina Gamecocks  
-🏈 Carolina Panthers  
-🌲 Portland Timbers  
-🏀 Philadelphia 76ers  
-💪 Zion Williamson  
+| Likes | Dislikes | Favorite Teams |
+| --- | --- | --- | 
+| Math Jokes | TurboTax | 😈 Manchester United |
+| Movie Soundtracks | Facebook | 🐓 South Carolina Gamecocks |
+| Clear Communication | Burnt Rice | 🏈 Carolina Panthers |
+| Generative Art | Commuting | 🌲 Portland Timbers  |
+| Pub Trivia | Humidity | 💪 Zion Williamson |
 
 
