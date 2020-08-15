@@ -1,16 +1,40 @@
-### Hi there 👋
+## Stewart Schrieffer
+Columbia, SC USA   
+Data Science/Web Developer  
 
-<!--
-**StewSchrieff/StewSchrieff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Welcome
+* Hiya! Welcome to my github. Feel free to poke around as you see fit. Reach out to me on [twitter](https://twitter.com/Schrewart). DM's are open.
 
-Here are some ideas to get you started:
+#### Gists
+* I think that gists are criminally underhighlighted on github. I've made a [few of em](https://gist.github.com/StewSchrieff).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Disclaimer
+* Most of my repo's are either toy projects or attempts at solving [FiveThirtyEight's The Riddler](https://fivethirtyeight.com/tag/the-riddler/). They are made for fun, by fun, and for only fun.
+
+#### Likes
+* Math Jokes
+* Movie Soundtracks
+* Clear Communication
+* python
+* AWS
+* Jetbrains
+* Generative Art
+
+#### Dislikes
+
+* TurboTax
+* Facebook
+* Burnt Rice
+* Commuting
+
+
+
+#### Favorite Teams
+😈 Manchester United  
+🐓 South Carolina Gamecocks  
+🏈 Carolina Panthers  
+🌲 Portland Timbers  
+🏀 Philadelphia 76ers  
+💪 Zion Williamson  
+
+
