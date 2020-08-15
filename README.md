@@ -2,6 +2,7 @@
 ✈️ Columbia, SC USA   
 💻 Data Science/Web Developer  
 
+
 <details>
  <summary>📝 Resume 📝</summary>
  
@@ -46,10 +47,12 @@
  * Bachelor of Science - Computer Science
  * 3.831 GPA
  * Intern at SCANA/Cyberwoven during 2016-2018 school years
- 
- ---
+
  
  </details>
+ 
+  
+ ---
 
 #### Welcome
 * Hey there. Welcome to my github. Feel free to poke around as you see fit. Reach out to me on [twitter](https://twitter.com/Schrewart). DM's are open. Send me your hot takes on programming/architecture/sports.
@@ -67,7 +70,7 @@ I've worked on:
 * [Chasing the Moon Web Interactive](https://ctm.americanexperience.org/)
   * This was a 2020 Silver National American Advertising Award [Winner](http://winners.americanadvertisingawards.com/awards2020/silver/)
 
-
+---
 
 | Likes | Dislikes | Favorite Teams |
 | --- | --- | --- | 
