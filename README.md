@@ -3,7 +3,7 @@ Columbia, SC USA
 Data Science/Web Developer  
 
 #### Welcome
-* Hiya! Welcome to my github. Feel free to poke around as you see fit. Reach out to me on [twitter](https://twitter.com/Schrewart). DM's are open.
+* Hiya! Welcome to my github. Feel free to poke around as you see fit. Reach out to me on [twitter](https://twitter.com/Schrewart). DM's are open. Send me your hot takes on programming/architecture/sports.
 
 #### Gists
 * I think that gists are criminally underhighlighted on github. I've made a [few of em](https://gist.github.com/StewSchrieff).
